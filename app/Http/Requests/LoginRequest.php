@@ -1,4 +1,4 @@
-<?php namespace App\Http\Requests;
+<?php namespace History\Http\Requests;
 
 class LoginRequest extends Request {
 

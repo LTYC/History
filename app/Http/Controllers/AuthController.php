@@ -1,9 +1,9 @@
-<?php namespace App\Http\Controllers;
+<?php namespace History\Http\Controllers;
 
 use Illuminate\Contracts\Auth\Guard;
 
-use App\Http\Requests\LoginRequest;
-use App\Http\Requests\RegisterRequest;
+use History\Http\Requests\LoginRequest;
+use History\Http\Requests\RegisterRequest;
 
 class AuthController extends Controller {
 
